@@ -29,7 +29,7 @@
     "babel-plugin-module-resolver": "^4.1.0",
     "hexo": "5.4.2",
     "hexo-generator-index": "^3.0.0",
-    "hexo-renderer-marked": "^5.0.0",
+    "hexo-renderer-marked": "^6.0.0",
     "postcss": "8.4.5",
     "sass": "^1.50.0",
     "sass-loader": "^13.2.0",
