@@ -13,7 +13,6 @@ export default function Header() {
         <div className="block text-center sm:inline-block sm:text-left  sm:float-right">
           <a className="inline-block nav-link py-3 px-2" href="/">首页</a>
           <a className="inline-block nav-link py-3 px-2" href="/archives/">归档</a>
-          <a className="inline-block nav-link py-3 px-2" href="/gallery/">相册</a>
           <a className="inline-block nav-link py-3 px-2" href="/about/">关于</a>
           <span className="inline-block nav-link py-3 px-2"  id="btn_toggle_theme" title="切换暗色模式">
             <i className="theme-icon"/>
