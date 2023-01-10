@@ -26,7 +26,7 @@
     "@types/react-dom": "18.0.9",
     "add": "^2.0.6",
     "autoprefixer": "10.4.13",
-    "babel-plugin-module-resolver": "^4.1.0",
+    "babel-plugin-module-resolver": "^5.0.0",
     "hexo": "6.3.0",
     "hexo-generator-index": "^3.0.0",
     "hexo-renderer-marked": "^6.0.0",
